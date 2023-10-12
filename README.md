@@ -7,6 +7,6 @@ Also create a machine learning model that can predict the health_insurance_price
 
 The dataset have these columns: 'age', 'gender', 'BMI', 'Children', 'smoking_status', 'location','health_insurance_price'.
 
-Outputs:
+# Outputs:
 From Analysis it was clear that smoking_status holds a great impact on Health insurance price.
 
