@@ -10,3 +10,4 @@ The dataset have these columns: 'age', 'gender', 'BMI', 'Children', 'smoking_sta
 # Outputs:
 From Analysis it was clear that smoking_status holds a great impact on Health insurance price.
 
+Among all the Regression models RandomForest and ElasticNet Regression models were performing better.
